@@ -89,11 +89,6 @@ python rps_vs_ai.py
 
 ---
 
-## 📸 Preview
-
-> *(Insert screenshots or GIFs of gameplay here)*
-
----
 
 ## 💡 Ideas for Future Enhancements
 
@@ -109,16 +104,5 @@ python rps_vs_ai.py
 
 Pull requests are welcome! If you’ve got an idea to make this game even better, feel free to fork, improve, and open a PR.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙌 Acknowledgments
-
-* [MediaPipe](https://mediapipe.dev/) by Google for awesome hand tracking.
-* You, the player, for making it to the final round against the AI!
 
