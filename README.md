@@ -1,6 +1,4 @@
-Here's a **creative and informative GitHub README** for your **"Rock Paper Scissors vs AI"** project, based on the code and functionality you've shared:
 
----
 
 # 🪨📄✂️ Rock Paper Scissors vs AI
 
