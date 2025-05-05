@@ -2,7 +2,7 @@
 
 # 🪨📄✂️ Rock Paper Scissors vs AI
 
-A computer vision-powered twist on the classic game **Rock, Paper, Scissors**, where your **hand gestures** control the game — and your opponent is a quick-thinking AI!
+A computer vision-powered twist on the classic game **Rock, Paper, Scissors**, where your **hand gestures** control the game and your opponent is a quick-thinking AI!
 
 Built with **Python**, **OpenCV**, and **MediaPipe**, this project lets you play RPS using just your webcam, detecting your gestures in real-time and pitting them against an AI opponent. No clicks. No buttons. Just hand signs.
 
