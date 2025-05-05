@@ -48,7 +48,7 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, this project lets you play
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors-vs-ai.git
+git clone https://github.com/ThiwankiLakshani/rock-paper-scissors-vs-ai.git
 cd rock-paper-scissors-vs-ai
 ```
 
